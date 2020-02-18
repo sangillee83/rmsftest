@@ -1,0 +1,26 @@
+StringMid( StringFromTime( HTGetTimeAtScooter( HistTrend.Name, HistTrend.UpdateCount,2,HistTrend.ScooterPosRight ), 3 ), 12, 8 )
+
+
+사용전압에 따른 모터 소비전력으로 허용전류를 계산한 후
+모터는 50A 이하는 3배, 50 초과는 2.75배 씩으로 합산
+히터는 3상 380V / 2KW이면 개당 3A x 4개 =12A로 계산( 필요하면 안전율 적용 ) 합산
+
+모드버스 159P
+
+appedit.lok
+
+
+https://it-jerryfamily.tistory.com/entry/Program-C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%A0%91%EC%86%8D-%EC%9C%88%EB%8F%84%EC%9A%B0%ED%8F%BC?category=611730
+
+
+https://slaner.tistory.com/170?category=546117
+
+https://pixlr.com/editor/
+
+https://kofallstar.netmarble.jp/notice/view.aspx?idx=8863&p=1
+
+
+https://www.youtube.com/watch?v=tiK2KrfB_ak
+
+
+https://www.youtube.com/watch?v=_z9PDX_7vLk
